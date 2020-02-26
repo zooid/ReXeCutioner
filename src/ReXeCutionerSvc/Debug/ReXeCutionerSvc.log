@@ -1,5 +1,31 @@
-﻿Build started 2/21/2017 8:18:13 PM.
-
-Build succeeded.
-
-Time Elapsed 00:00:00.06
+﻿  ReXeCutionerSvc.cpp
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(231): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(237): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(243): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(322): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(403): warning C4189: 'hProcess': local variable is initialized but not referenced
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(785): warning C4244: '=': conversion from 'unsigned long' to 'WORD', possible loss of data
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(589): warning C4189: 'dwErrorCode': local variable is initialized but not referenced
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(588): warning C4101: 'sdNew': unreferenced local variable
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(590): warning C4189: 'hr': local variable is initialized but not referenced
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(586): warning C4189: 'pNewAce': local variable is initialized but not referenced
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(878): warning C4189: 'dwErrorCode': local variable is initialized but not referenced
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(877): warning C4101: 'sdNew': unreferenced local variable
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(879): warning C4189: 'hr': local variable is initialized but not referenced
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(875): warning C4189: 'pNewAce': local variable is initialized but not referenced
+  Service.cpp
+  Generating Code...
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(1075): warning C4701: potentially uninitialized local variable 'pNewAcl' used
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(1075): warning C4703: potentially uninitialized local pointer variable 'pNewAcl' used
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(368): warning C4701: potentially uninitialized local variable 'hToken' used
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(368): warning C4703: potentially uninitialized local pointer variable 'hToken' used
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(840): warning C4701: potentially uninitialized local variable 'pNewAcl' used
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(840): warning C4703: potentially uninitialized local pointer variable 'pNewAcl' used
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(837): warning C4701: potentially uninitialized local variable 'pace' used
+z:\zooid\ghrepos\rexecutioner\src\rexecutionersvc\rexecutionersvc.cpp(837): warning C4703: potentially uninitialized local pointer variable 'pace' used
+ReXeCutionerSvc.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  ReXeCutionerSvc.vcxproj -> Z:\zooid\ghrepos\ReXeCutioner\src\ReXeCutionerSvc\.\Debug\ReXeCutionerSvc.exe

@@ -1,5 +1,2 @@
-﻿Build started 2/21/2017 8:18:13 PM.
-
-Build succeeded.
-
-Time Elapsed 00:00:00.07
+﻿ReXeCutioner.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  ReXeCutioner.vcxproj -> Z:\zooid\ghrepos\ReXeCutioner\src\.\Debug\ReXeCutioner.exe

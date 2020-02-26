@@ -29,6 +29,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="ReXeCutionerSvc\Release\ReXeCutionerSvc.exe" />
+    <None Include="ReXeCutionerSvc\Debug\ReXeCutionerSvc.exe" />
   </ItemGroup>
 </Project>
